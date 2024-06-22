@@ -1,0 +1,35 @@
+<?php
+
+return [
+
+
+    'success' => "The operation is done successfully",
+    'logout'=>"Logout successfully",
+    'error' => "The operation is not done successfully",
+    'not_found' => "The :var is not found",
+    'not_active' => "The :var is not active",
+     'admin_user' => "The :var is admin user",
+    'expire_date' => "The date is expired",
+    'expireYear' => "You must choose correct year",
+    'expireMonth' =>"You must choose correct month",
+    'validMonth' => "You must choose correct month",
+    'errorOldPassword' => "Error in old password",
+    'verified' => "Account successfully verified ",
+    'not_verified' => "Account is not verified ",
+    'error_verified' =>"Error in verification code , account not verified successfully",
+    'already_verified' => 'Account already verified',
+    'send_verify' => 'Send verification code to mobile number is done',
+    'page_number' => 'page number',
+    'per_page' => 'per page',
+    'offers' => 'offers',
+	'incorrect_activation_code' => 'Incorrect verification code',
+	'mobile_exists' => 'This mobile is already existed',
+	'add_to_withList' => 'The product has been added to your wishlist successfully',
+	'delete_to_withList' => 'The product has been removed from your wishlist successfully',
+	 'successCoupon'=>'The Coupon No is Valid',
+    'errorCoupon'=>'The Coupon is not Valid',
+    'successMaxQun'=>'You entered max Quantity allowed',
+    'errorShopping'=>'The shopping Cart item does not exist ',
+    'errorAsigndriver'=>'This order not assign to driver',
+    'errorNotAssign'=>'This order started by another driver',
+];
