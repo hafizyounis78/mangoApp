@@ -1143,7 +1143,7 @@
 
         </script>
        <!-- <script async defer
-                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA_nAiYK8hpagburSEhPVL-ywyovSvhQNc&callback=initMap">
+                src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap">
         </script>-->
             <script src="//maps.googleapis.com/maps/api/js?key=&callback=initMap" async="" defer="defer" type="text/javascript"></script>
         {{--<script src="{{url('')}}/assets/global/plugins/jquery.min.js" type="text/javascript"></script>--}}
